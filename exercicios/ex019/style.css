@@ -1,0 +1,46 @@
+body {
+    background-color: #023059;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    font-style: normal;
+}
+#titulo {
+    color: #3973BF;
+    background-position: center;
+    background-color: #77D9BD;
+    width: 500px;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #5191c991;
+    
+    
+}
+h1 {
+    color: #77D9BD;
+}
+
+
+.basico{
+    background-color: #3973BF;
+    width: 300px;
+    border-radius: 20px;
+    padding: 5px;
+}
+.intermediario {
+    background-color: aliceblue;
+    width: 250px;
+    border-radius: 20px;
+    padding: 5px;
+}
+.avançado{
+    background-color: antiquewhite;
+    width: 200px;
+    border-radius: 20px;
+    padding: 5px;
+}
+.avançados{
+    background-color: antiquewhite;
+    width: 230px;
+    border-radius: 20px;
+    padding: 5px;
+}

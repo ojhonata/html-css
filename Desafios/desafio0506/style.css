@@ -1,0 +1,38 @@
+body{
+    background-color: cadetblue;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+    font-weight: 100;
+}
+button{
+    border-radius: 20px;
+    background-color: black;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid 10px red;
+    text-align: center;
+    display: flex;
+
+}
+a{
+    color: snow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: oblique;
+}
+img{
+    text-align: center;
+    display: flex;
+}
